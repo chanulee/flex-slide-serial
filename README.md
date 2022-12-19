@@ -1,4 +1,4 @@
-# serialFlexSlide
+# serialFlexSlide for Arduino Uno
 
 ## Features
 - Get X, Y axis value from thumbslide
