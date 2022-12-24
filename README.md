@@ -17,6 +17,7 @@ Check out fritzing file at [this repo](https://github.com/chanulee/led-show) for
 1. ofxSimpleSerial by LeoColomb [Go to repo](https://github.com/LeoColomb/ofxSimpleSerial)
 2. [Flex Sensor Hookup Guide](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide?_ga=2.241700674.1502922294.1671452785-154993728.1671452785)
 3. [Thumb Slide Circuit](https://www.sparkfun.com/products/9426)
------
-Physical Computing 2022-2    
-Advisor Prof. Sangwook Lee
+---
+Physical Computing, Fall 2022     
+Advisor Prof. Sangwook Lee  
+Dept. of Art & Technology, Sogang University
