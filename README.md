@@ -9,7 +9,7 @@
 - Send data through serial
 - 3D sphere, easyCam, rotate...
 ## 3. Specimen
-Check out fritzing file at [this repo](https://github.com/chanulee/led-show) for more information.
+Check out fritzing file for more information.
 - Arduino Uno
 - Flex Sensor
 - Thumb Slide
