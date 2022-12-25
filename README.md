@@ -7,7 +7,7 @@
 - Get X, Y axis value from thumbslide
 - Get and calculate angle from flex sensor
 - Send data through serial
-- 3D sphere, easyCam, rotate...
+- 3D sphere, easyCam, rotate... in openFrameworks
 ## 3. Specimen
 Check out fritzing file for more information.
 - Arduino Uno
